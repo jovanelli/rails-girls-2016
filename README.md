@@ -1,3 +1,3 @@
 # rails-girls-2016
 repositório
-SOCORRO
+*alguma outra coisa
