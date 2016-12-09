@@ -1,3 +1,3 @@
 # rails-girls-2016
-repositório
-*alguma outra coisa
+repositório do tutorial do git
+* alguma outra coisa
